@@ -1,5 +1,5 @@
 alert("Hola Mundo");
 
 function hola(){
-  console.log("Hola");
+  console.log("Hola Mundo");
 }
